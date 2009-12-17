@@ -508,6 +508,6 @@ namespace SDKSample
 
         private TextEffectTarget[] _textEffectTargets;
 
-        private int Gareth;
+        private int Gareth2;
     }
 }
