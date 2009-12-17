@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "textblock_props_samp", "textblock_props_samp.csproj", "{0C2198C0-2E37-4D23-90BB-C80963D7459A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{566F55E5-2BF7-4494-8374-C6832A40D640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C2198C0-2E37-4D23-90BB-C80963D7459A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2198C0-2E37-4D23-90BB-C80963D7459A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2198C0-2E37-4D23-90BB-C80963D7459A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2198C0-2E37-4D23-90BB-C80963D7459A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{566F55E5-2BF7-4494-8374-C6832A40D640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566F55E5-2BF7-4494-8374-C6832A40D640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566F55E5-2BF7-4494-8374-C6832A40D640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566F55E5-2BF7-4494-8374-C6832A40D640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

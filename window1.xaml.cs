@@ -506,6 +506,8 @@ namespace SDKSample
                 target.Enable();           
         }
 
-        private TextEffectTarget[] _textEffectTargets; 
+        private TextEffectTarget[] _textEffectTargets;
+
+        private int Gareth;
     }
 }
